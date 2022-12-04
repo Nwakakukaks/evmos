@@ -26,9 +26,9 @@
 
 Live Website (https://spaceoz-evmos.netlify.app)
 
-Youtube Video Demo
+ Video Presentation
 
-[![Youtube Video](https://img.youtube.com/vi/yZwc0QGiBBw/sddefault.jpg)](https://youtu.be/yZwc0QGiBBw)
+[![Demo Video](https://drive.google.com/file/d/14ME1JKtnIUmEk6fTDl-KPwxFBJJDu-Ea/view?usp=sharing)
 
 
 
@@ -102,13 +102,4 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.md` for more information.
     
-## Feedback & Contact
-
-If you have any feedback or contact, please reach out to us at maadhav2001@gmail.com
-
-
-## Authors
-
-- [@Maadhav](https://www.github.com/Maadhav)
-- [@kunal528](https://www.github.com/kunal528)
 
