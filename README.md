@@ -54,7 +54,7 @@ Live Website (https://spaceoz-evmos.netlify.app)
 Clone the project
 
 ```bash
-  git clone https://github.com/Code-Decoders/spaceoz-evmos
+  git clone https://github.com/nwakakukaks/evmos
 ```
 
 Go to the project directory
